@@ -11,7 +11,6 @@ quotion = first_number//second_number
 reminder = first_number % second_number
 print(quotion)
 print(first_number//second_number)
-print('reminder:',reminder)
 while first_number/second_number == quotion + reminder/ second_number:
     if first_number < second_number:
         tmp = first_number  
