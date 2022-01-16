@@ -9,8 +9,6 @@ second_number = int(input('Second Number:'))
 is_not_common = True
 quotion = first_number//second_number
 reminder = first_number % second_number
-print(quotion)
-print(first_number//second_number)
 while first_number/second_number == quotion + reminder/ second_number:
     if first_number < second_number:
         tmp = first_number  
