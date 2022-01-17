@@ -14,7 +14,7 @@ second_number = int(input('Second Number:'))
 #            --yes-> 
 # E3:               first_number <- reminder , first_number <-> second_number, go to next step
 #             --No-> 
-#                   Terminate , go to next step
+#                   Terminate , go to next step 
 
 if first_number < second_number:
     tmp = first_number  
